@@ -4,4 +4,5 @@
 	branch = HEAD
 [submodule "globalKinhom"]
 	path = globalKinhom
-	url = https://github.com/cran/globalKinhom
+	url = https://github.com/thomasrshaw/globalkinhom
+	subdir = globalKinhom
